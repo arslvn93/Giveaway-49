@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $250 Luxury Facial in High Park – Free Entry!",
+    "navBrandLogoText": "Nikku Sharma",
+    "privacyPolicyLink": "https://www.royallepagesignature.com/privacy.php"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Luxury Facial Refresh</span> at Satisfaction Spa!",
+    "heroSubheadline": "Glow into the new year with a $250 facial package. Simple entry. No tags. No follows. Winner picked Feb 26, 2026.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/89w14sk815rmr0cvrytsg2rr48.jpg",
+    "promotionDates": "Enter Jan 26–Feb 26, 2026. Winner announced Feb 26, 2026.",
+    "endDate": "2026-02-27T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Facial Refresh: New Year, New You Giveaway",
+    "successModalHeaderText": "You’re In!",
+    "successModalMainMessage": "Your entry for the <strong>Facial Refresh: New Year, New You Giveaway</strong> has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
+    "successModalEmailPrompt": "Watch your inbox on Feb 26—look for an email from savvyrep@gmail.com."
   },
   "settings": {
     "confettiColors": [
@@ -25,149 +25,164 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In!",
+    "mainMessage": "Your entry for the Facial Refresh: New Year, New You Giveaway has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
+    "socialPromptText": "Watch your inbox on Feb 26. Tell a friend who could use a glow-up too."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/kb1cvaydx9rmr0cvrytrxhn4a8.jpg",
+        "alt": "Woman relaxing during a luxury facial treatment"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b00gfmsgwxrmr0cvryv9jg9sbr.jpg",
+        "alt": "Skin expert applying a gentle facial peel"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/z9ry634hxdrmr0cvryv8jzqx90.jpg",
+        "alt": "Close-up of glowing skin after a spa facial"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/h5awapzgnnrmt0cvryvat6mrw8.jpg",
+        "alt": "Peaceful spa treatment room at Satisfaction Spa"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-spa",
+        "text": "Custom facial by a caring skin expert"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-leaf",
+        "text": "Gentle, safe products that your skin will love"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-user-check",
+        "text": "Quick skin consult and a plan made for you"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-clock",
+        "text": "Big results in about an hour—perfect for busy pros and parents"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Local on Dundas St—easy for High Park, Junction, and Bloor West"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Facial Refresh: New Year, New You Package",
+    "value": "$250 Value",
+    "description": "Picture this: you take a deep breath, lay back, and let a kind skin expert do the rest. Your skin feels calm. Smooth. Fresh. This facial at Satisfaction Spa and Skin Therapy on Dundas St is gentle and safe. It is tailored to your skin. Busy day? No problem. You get big results in a short time. Leave with <span class='highlight'>healthy, glowing skin</span> and a clear mind. We love this local spa. We’ve been going for over 10 years.",
+    "limitedTimeOfferText": "Limited Time—Closes Feb 26!",
+    "ctaButtonText": "I Want This Spa Day!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Quick Form",
+        "description": "Add your name and email. Takes under 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer 3 Fast Questions",
+        "description": "Tell us a bit about your home plans. Simple and helpful."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered!",
+        "description": "We draw on Feb 26 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Local prize for local neighbors"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-heart",
+        "text": "No tasks—just show up if you win"
       }
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18+.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Ontario residents, 18 or older. One entry per person."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "Do I need to like or share?",
+        "a": "No. Just enter. That’s it."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "How do I claim the prize?",
+        "a": "We connect you with Satisfaction Spa to book your visit. Bring ID and enjoy."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Is the spa part of this giveaway?",
+        "a": "No. This is hosted by Nikku at Royal LePage Signature Realty. The spa is not affiliated."
+      },
+      {
+        "q": "When does it end?",
+        "a": "Entries close Feb 26, 2026 at 11:59 PM ET. We draw the same day."
+      },
+      {
+        "q": "Can I enter more than once?",
+        "a": "No. One entry per person to keep it fair."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email for typos.",
+      "Add savvyrep@gmail.com to your contacts.",
+      "Enter before Feb 26 so you don’t miss out.",
+      "Share with a friend who needs a break."
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random draw tool. Every entry has the same chance. One entry per person keeps it fair."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notice",
+      "text": "We will email the winner on Feb 26, 2026 from savvyrep@gmail.com. Check your inbox and spam folder."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-49.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-49.netlify.app&text=Win%20a%20%24250%20Luxury%20Facial%20in%20High%20Park%20%E2%80%93%20Free%20Entry!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this $250 facial refresh.",
+    "entryCountText": "Entries are coming in from High Park, The Junction, and Bloor West—don’t miss out.",
+    "socialSharePrompt": "Know someone who deserves a spa break? Share this with them."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -197,8 +212,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -211,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,45 +248,33 @@ const config = {
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/Nikku.SavvyRep/",
+      "instagram": "https://www.instagram.com/savvyrep_nikku/"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Nikku",
+      "title": "REALTOR",
+      "phone": "647-208-9428",
+      "email": "savvyrep@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Nikku at Royal LePage Signature Realty and is not affiliated with Satisfaction Spa and Skin Therapy, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-26 at 11:59 PM ET. Winner selected at random on 2026-02-26. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1764611626239-NIKKU2022_9311.jpg",
+    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1764612105522-NikkuSharma_Logo_Green.pdf",
+    "secondaryLogoAlt": "Nikku Sharma",
+    "organizerName": "Nikku Sharma",
+    "brokerageName": "Royal LePage Signature Realty",
+    "address": "495 Wellington St W",
+    "email": "savvyrep@gmail.com",
+    "phone": "647-208-9428",
+    "copyrightOwner": "Nikku"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
+    "repoName": "Giveaway-49",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-49",
+    "netlifyUrl": "http://Giveaway-49.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Facial Refresh Giveaway"
   }
 };
