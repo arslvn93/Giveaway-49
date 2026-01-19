@@ -1,6 +1,6 @@
 const config = {
   "meta": {
-    "pageTitle": "Win a $250 Luxury Facial in High Park – Free Entry!",
+    "pageTitle": "Win a $250 Luxury Facial in High Park - Free Entry!",
     "navBrandLogoText": "Nikku Sharma",
     "privacyPolicyLink": "https://www.royallepagesignature.com/privacy.php"
   },
@@ -15,7 +15,7 @@ const config = {
     "name": "Facial Refresh: New Year, New You Giveaway",
     "successModalHeaderText": "You’re In!",
     "successModalMainMessage": "Your entry for the <strong>Facial Refresh: New Year, New You Giveaway</strong> has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
-    "successModalEmailPrompt": "Watch your inbox on Feb 26—look for an email from savvyrep@gmail.com."
+    "successModalEmailPrompt": "Watch your inbox on Feb 26 - look for an email from savvyrep@gmail.com."
   },
   "settings": {
     "confettiColors": [
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In!",
-    "mainMessage": "Your entry for the Facial Refresh: New Year, New You Giveaway has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
-    "socialPromptText": "Watch your inbox on Feb 26. Tell a friend who could use a glow-up too."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -73,30 +68,30 @@ const config = {
       },
       {
         "icon": "fas fa-clock",
-        "text": "Big results in about an hour—perfect for busy pros and parents"
+        "text": "Big results in about an hour - perfect for busy pros and parents"
       },
       {
         "icon": "fas fa-map-marker-alt",
-        "text": "Local on Dundas St—easy for High Park, Junction, and Bloor West"
+        "text": "Local on Dundas St - easy for High Park, Junction, and Bloor West"
       }
     ],
     "name": "Facial Refresh: New Year, New You Package",
     "value": "$250 Value",
     "description": "Picture this: you take a deep breath, lay back, and let a kind skin expert do the rest. Your skin feels calm. Smooth. Fresh. This facial at Satisfaction Spa and Skin Therapy on Dundas St is gentle and safe. It is tailored to your skin. Busy day? No problem. You get big results in a short time. Leave with <span class='highlight'>healthy, glowing skin</span> and a clear mind. We love this local spa. We’ve been going for over 10 years.",
-    "limitedTimeOfferText": "Limited Time—Closes Feb 26!",
+    "limitedTimeOfferText": "Limited Time - Closes Feb 26!",
     "ctaButtonText": "I Want This Spa Day!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Quick Form",
-        "description": "Add your name and email. Takes under 30 seconds."
+        "icon": "fab fa-instagram",
+        "title": "Follow us on Instagram",
+        "description": "Make suer to follow me @savvyrep_nikku"
       },
       {
         "icon": "fas fa-check-circle",
-        "title": "Answer 3 Fast Questions",
-        "description": "Tell us a bit about your home plans. Simple and helpful."
+        "title": "Fill the Quick Form",
+        "description": "Add your name and email. Takes under 30 seconds."
       },
       {
         "icon": "fas fa-trophy",
@@ -123,13 +118,11 @@ const config = {
       },
       {
         "icon": "fas fa-heart",
-        "text": "No tasks—just show up if you win"
+        "text": "No tasks - just show up if you win"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18+.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Enter before Feb 26 so you don’t miss out.",
       "Share with a friend who needs a break."
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18+.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw tool. Every entry has the same chance. One entry per person keeps it fair."
@@ -177,80 +172,92 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-49.netlify.app&text=Win%20a%20%24250%20Luxury%20Facial%20in%20High%20Park%20%E2%80%93%20Free%20Entry!"
     },
     "subtitle": "Enter your details below for a chance to win this $250 facial refresh.",
-    "entryCountText": "Entries are coming in from High Park, The Junction, and Bloor West—don’t miss out.",
+    "entryCountText": "Entries are coming in from High Park, The Junction, and Bloor West - don’t miss out.",
     "socialSharePrompt": "Know someone who deserves a spa break? Share this with them."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1768852505893_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1768852505893_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
         }
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1768852505893_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
         }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Facial Refresh: New Year, New You Giveaway has been received. Complete your entry below to be eligible for the Feb 26 draw.",
+    "socialPromptText": "Follow @savvyrep_nikku on Instagram to complete your entry - only followers are eligible\n"
+  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/Nikku.SavvyRep/",
+      "facebook": "",
       "instagram": "https://www.instagram.com/savvyrep_nikku/"
     },
     "agentContact": {
@@ -261,7 +268,7 @@ const config = {
     },
     "footerDisclaimer": "This giveaway is sponsored by Nikku at Royal LePage Signature Realty and is not affiliated with Satisfaction Spa and Skin Therapy, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-26 at 11:59 PM ET. Winner selected at random on 2026-02-26. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1764611626239-NIKKU2022_9311.jpg",
-    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1764612105522-NikkuSharma_Logo_Green.pdf",
+    "secondaryLogoUrl": "https://i.ibb.co/2fV2Sx9/463-Burbrook-Place-Post-Card.png",
     "secondaryLogoAlt": "Nikku Sharma",
     "organizerName": "Nikku Sharma",
     "brokerageName": "Royal LePage Signature Realty",
