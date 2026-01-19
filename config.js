@@ -91,7 +91,7 @@ const config = {
       {
         "icon": "fas fa-check-circle",
         "title": "Fill the Quick Form",
-        "description": "Add your name and email. Takes under 30 seconds."
+        "description": "Add your contact info and answer 3 quick question"
       },
       {
         "icon": "fas fa-trophy",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768852505893_0",
+      "id": "q_auto_1768852721550_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768852505893_1",
+      "id": "q_auto_1768852721550_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768852505893_2",
+      "id": "q_auto_1768852721550_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
