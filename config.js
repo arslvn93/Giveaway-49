@@ -172,12 +172,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-49.netlify.app&text=Win%20a%20%24250%20Luxury%20Facial%20in%20High%20Park%20%E2%80%93%20Free%20Entry!"
     },
     "subtitle": "Enter your details below for a chance to win this $250 facial refresh.",
-    "entryCountText": "Entries are coming in from High Park, The Junction, and Bloor West - don’t miss out.",
+    "entryCountText": "",
     "socialSharePrompt": "Know someone who deserves a spa break? Share this with them."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769544280079_0",
+      "id": "q_auto_1769544327742_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544280079_1",
+      "id": "q_auto_1769544327742_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544280079_2",
+      "id": "q_auto_1769544327742_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
