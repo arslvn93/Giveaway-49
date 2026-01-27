@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Luxury Facial Refresh</span> at Satisfaction Spa!",
-    "heroSubheadline": "Glow into the new year with a $250 facial package. Simple entry. No tags. No follows. Winner picked Feb 26, 2026.",
+    "heroSubheadline": "Glow into the new year with a $250 facial package.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/89w14sk815rmr0cvrytsg2rr48.jpg",
     "promotionDates": "Enter Jan 26–Feb 26, 2026. Winner announced Feb 26, 2026.",
     "endDate": "2026-02-27T04:59:00.000Z",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769543826996_0",
+      "id": "q_auto_1769543855621_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769543826996_1",
+      "id": "q_auto_1769543855621_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769543826996_2",
+      "id": "q_auto_1769543855621_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
