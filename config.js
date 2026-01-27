@@ -56,7 +56,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-spa",
-        "text": "Custom facial by a caring skin expert"
+        "text": "Custom facial by a experienced skin expert"
       },
       {
         "icon": "fas fa-leaf",
@@ -68,16 +68,16 @@ const config = {
       },
       {
         "icon": "fas fa-clock",
-        "text": "Big results in about an hour - perfect for busy pros and parents"
+        "text": "Big results in about an hour - perfect for busy professional and parents"
       },
       {
         "icon": "fas fa-map-marker-alt",
-        "text": "Local on Dundas St - easy for High Park, Junction, and Bloor West"
+        "text": "Local on Dundas St - easy access for neighbouring residence "
       }
     ],
     "name": "Facial Refresh: New Year, New You Package",
     "value": "$250 Value",
-    "description": "Picture this: you take a deep breath, lay back, and let a kind skin expert do the rest. Your skin feels calm. Smooth. Fresh. This facial at Satisfaction Spa and Skin Therapy on Dundas St is gentle and safe. It is tailored to your skin. Busy day? No problem. You get big results in a short time. Leave with <span class='highlight'>healthy, glowing skin</span> and a clear mind. We love this local spa. We’ve been going for over 10 years.",
+    "description": "Picture this: you take a deep breath, lay back, and let a skin expert do the rest. Your skin feels calm. Smooth. Fresh. This facial at Satisfaction Spa and Skin Therapy on Dundas St is gentle and safe. It is tailored to your skin. Busy day? No problem. You get big results in a short time. Leave with <span class='highlight'>healthy, glowing skin</span> and a clear mind. We love this local spa. We’ve been going for over 10 years.",
     "limitedTimeOfferText": "Limited Time - Closes Feb 26!",
     "ctaButtonText": "I Want This Spa Day!"
   },
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768852721550_0",
+      "id": "q_auto_1769543826996_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768852721550_1",
+      "id": "q_auto_1769543826996_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768852721550_2",
+      "id": "q_auto_1769543826996_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
