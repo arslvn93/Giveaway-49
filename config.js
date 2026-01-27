@@ -86,7 +86,7 @@ const config = {
       {
         "icon": "fab fa-instagram",
         "title": "Follow us on Instagram",
-        "description": "Make suer to follow me @savvyrep_nikku"
+        "description": "Make sure to follow me @savvyrep_nikku"
       },
       {
         "icon": "fas fa-check-circle",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769544024786_0",
+      "id": "q_auto_1769544280079_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544024786_1",
+      "id": "q_auto_1769544280079_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544024786_2",
+      "id": "q_auto_1769544280079_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
