@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769544641745_0",
+      "id": "q_auto_1769544683740_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544641745_1",
+      "id": "q_auto_1769544683740_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544641745_2",
+      "id": "q_auto_1769544683740_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -271,7 +271,7 @@ const config = {
     "secondaryLogoUrl": "https://i.ibb.co/2fV2Sx9/463-Burbrook-Place-Post-Card.png",
     "secondaryLogoAlt": "Nikku Sharma",
     "organizerName": "Nikku Sharma",
-    "brokerageName": "Royal LePage Signature Realty",
+    "brokerageName": "Royal LePage Signature Realty Brokerage",
     "address": "495 Wellington St W, Toronto, Ontario, M5V 1G1",
     "email": "savvyrep@gmail.com",
     "phone": "647-208-9428",
