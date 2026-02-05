@@ -45,11 +45,11 @@ const config = {
         "alt": "Skin expert applying a gentle facial peel"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/z9ry634hxdrmr0cvryv8jzqx90.jpg",
+        "src": "https://i.ibb.co/bgvqKTRh/nikku-with-kids.jpg",
         "alt": "Close-up of glowing skin after a spa facial"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/h5awapzgnnrmt0cvryvat6mrw8.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/z9ry634hxdrmr0cvryv8jzqx90.jpg",
         "alt": "Peaceful spa treatment room at Satisfaction Spa"
       }
     ],
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1770308856293_0",
+      "id": "q_auto_1770309025805_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770308856293_1",
+      "id": "q_auto_1770309025805_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770308856293_2",
+      "id": "q_auto_1770309025805_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
