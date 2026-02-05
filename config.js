@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://i.ibb.co/B5LfFwBW/Screenshot-2026-02-05-at-11-21-57-AM.png",
+        "src": "https://i.ibb.co/k6cGp65K/House-Post-Card-Direct-Mailer.png",
         "alt": "Woman relaxing during a luxury facial treatment"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1770308717175_0",
+      "id": "q_auto_1770308856293_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770308717175_1",
+      "id": "q_auto_1770308856293_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770308717175_2",
+      "id": "q_auto_1770308856293_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
