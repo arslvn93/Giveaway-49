@@ -12,9 +12,9 @@ const config = {
     "endDate": "2026-02-27T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
-    "name": "Facial Refresh: New Year, New You Giveaway",
+    "name": "Win a Luxury Facial Refresh at Satisfaction Spa!",
     "successModalHeaderText": "You’re In!",
-    "successModalMainMessage": "Your entry for the <strong>Facial Refresh: New Year, New You Giveaway</strong> has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
+    "successModalMainMessage": "Your entry for the <strong>Facial Refresh: Luxury Facial Refresh Giveaway</strong> has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
     "successModalEmailPrompt": "Watch your inbox on Feb 26 - look for an email from savvyrep@gmail.com."
   },
   "settings": {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1770309025805_0",
+      "id": "q_auto_1770311780911_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770309025805_1",
+      "id": "q_auto_1770311780911_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770309025805_2",
+      "id": "q_auto_1770311780911_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
