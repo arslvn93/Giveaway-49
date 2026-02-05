@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/kb1cvaydx9rmr0cvrytrxhn4a8.jpg",
+        "src": "https://i.ibb.co/B5LfFwBW/Screenshot-2026-02-05-at-11-21-57-AM.png",
         "alt": "Woman relaxing during a luxury facial treatment"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769544711407_0",
+      "id": "q_auto_1770308717175_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544711407_1",
+      "id": "q_auto_1770308717175_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769544711407_2",
+      "id": "q_auto_1770308717175_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
