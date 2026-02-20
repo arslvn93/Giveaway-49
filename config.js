@@ -8,14 +8,14 @@ const config = {
     "heroHeadline": "Win a <span class='highlight'>Luxury Facial Refresh</span> at Satisfaction Spa!",
     "heroSubheadline": "Glow into the spring with the chance to win a $250 facial package. ",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/89w14sk815rmr0cvrytsg2rr48.jpg",
-    "promotionDates": "Enter Jan 26–Feb 26, 2026. Winner announced Feb 26, 2026.",
-    "endDate": "2026-02-27T04:59:00.000Z",
+    "promotionDates": "Enter Feb 20 - March 16, 2026. Winner announced March 17, 2026.",
+    "endDate": "2026-03-16T10:30:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Win a Luxury Facial Refresh at Satisfaction Spa!",
     "successModalHeaderText": "You’re In!",
-    "successModalMainMessage": "Your entry for the <strong>Facial Refresh: Luxury Facial Refresh Giveaway</strong> has been received. We will draw on Feb 26, 2026 and email the winner. Good luck!",
-    "successModalEmailPrompt": "Watch your inbox on Feb 26 - look for an email from savvyrep@gmail.com."
+    "successModalMainMessage": "Your entry for the <strong>Facial Refresh: Luxury Facial Refresh Giveaway</strong> has been received. We will draw on March 17, 2026 and email the winner. Good luck!",
+    "successModalEmailPrompt": "Watch your inbox on March 17 - look for an email from savvyrep@gmail.com."
   },
   "settings": {
     "confettiColors": [
@@ -78,7 +78,7 @@ const config = {
     "name": "Spring Refresh Facial Package",
     "value": "$250 Value",
     "description": "Picture this: you take a deep breath, lay back, and let a skin expert do the rest. Your skin feels calm. Smooth. Fresh. This facial at Satisfaction Spa and Skin Therapy on Dundas St is gentle and safe. It is tailored to your skin. Busy day? No problem. You get big results in a short time. Leave with <span class='highlight'>healthy, glowing skin</span> and a clear mind. We love this local spa. We’ve been going for over 10 years.",
-    "limitedTimeOfferText": "Limited Time - Closes Feb 26!",
+    "limitedTimeOfferText": "Limited Time - Closes March 16!",
     "ctaButtonText": "I Want This Spa Day!"
   },
   "howToEnter": {
@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered!",
-        "description": "We draw on Feb 26 and email the winner."
+        "description": "We draw on March 17 and email the winner."
       }
     ],
     "highlights": [
@@ -142,7 +142,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close Feb 26, 2026 at 11:59 PM ET. We draw the same day."
+        "a": "Entries close March 17, 2026 at 11:59 PM ET. We draw the same day."
       },
       {
         "q": "Can I enter more than once?",
@@ -152,7 +152,7 @@ const config = {
     "tips": [
       "Double-check your email for typos.",
       "Add savvyrep@gmail.com to your contacts.",
-      "Enter before Feb 26 so you don’t miss out.",
+      "Enter before March 17 so you don’t miss out.",
       "Share with a friend who needs a break."
     ],
     "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18+.",
@@ -163,7 +163,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Notice",
-      "text": "We will email the winner on Feb 26, 2026 from savvyrep@gmail.com. Check your inbox and spam folder."
+      "text": "We will email the winner on March 17, 2026 from savvyrep@gmail.com. Check your inbox and spam folder."
     }
   },
   "entryForm": {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771448745885_0",
+      "id": "q_auto_1771594535564_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448745885_1",
+      "id": "q_auto_1771594535564_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448745885_2",
+      "id": "q_auto_1771594535564_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the Facial Refresh: New Year, New You Giveaway has been received. Complete your entry below to be eligible for the Feb 26 draw.",
+    "mainMessage": "Your information for the Facial Refresh: New Year, New You Giveaway has been received. Complete your entry below to be eligible for the March 17 draw.",
     "socialPromptText": "Follow @savvyrep_nikku on Instagram to complete your entry - only followers are eligible\n"
   },
   "footerContact": {
@@ -274,7 +274,7 @@ const config = {
       "phone": "647-208-9428",
       "email": "savvyrep@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Nikku at Royal LePage Signature Realty and is not affiliated with Satisfaction Spa and Skin Therapy, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-26 at 11:59 PM ET. Winner selected at random on 2026-02-26. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Nikku at Royal LePage Signature Realty and is not affiliated with Satisfaction Spa and Skin Therapy, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-16 at 11:59 PM ET. Winner selected at random on 2026-03-17. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1764611626239-NIKKU2022_9311.jpg",
     "secondaryLogoUrl": "https://i.ibb.co/2fV2Sx9/463-Burbrook-Place-Post-Card.png",
     "secondaryLogoAlt": "Nikku Sharma",
